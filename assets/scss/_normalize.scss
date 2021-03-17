@@ -1,0 +1,16 @@
+a{
+    color: white;
+    transition: .5s;
+    text-decoration: none;
+    &:visited{
+        color: white;
+    }
+    &:focus{
+        outline: none;
+    }
+}
+ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
